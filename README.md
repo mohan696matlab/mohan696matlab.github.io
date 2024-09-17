@@ -1,10 +1,22 @@
 # PhD. Artificial Intelligence for Automation | Computer Vision Research Engineer
 
-[Linkedin](https://www.linkedin.com/in/balyogi-mohan-dash/) || [GitHub](https://github.com/mohan696matlab) || [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@Mohankumardash) || [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
+
+<a href="https://www.linkedin.com/in/balyogi-mohan-dash/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" height="50">
+</a>
+
+<a href="https://github.com/mohan696matlab" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50">
+</a>
 
 <a href="https://www.youtube.com/@Mohankumardash" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50">
 </a>
+
+<a href="https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="50" height="50">
+</a>
+
 
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
