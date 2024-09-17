@@ -5,17 +5,20 @@
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
 ## Education
-- Ph.D., Data Science | Université de Lille, France (_March 2024_)  
+- Ph.D., Artificial Intelligence for Automation | Université de Lille, France (_March 2024_)  
 - M.Tech., Mechanical Systems Design | Indian Institute of Technology, Kharagpur (_May 2021_)
 
 ## Work Experience
-**Doctoral Researcher @ CRISTAL, Université de Lille (_Oct 2021 - Present_)**
+**Doctoral Researcher @ CRISTAL, Université de Lille (_Oct 2021 - Mar 2024_)**
 - Developed a deep learning method using TensorFlow and signal processing techniques to estimate the remaining useful life of critical industrial components, improving prediction lead time by 37%.
 - Created a novel eXplainable Artificial Intelligence (XAI) method, enhancing trust in predictions for critical industrial settings, presented at an international conference.
 - Applied self-supervised learning to develop a hybrid fault diagnosis method, incorporating physics-based models, reducing the need for labelled data by 70%.
 - Deployed machine learning projects using FAST API in Docker containers for scalable applications.
 
+
+
 ## Projects
+
 ### SNCF - AI-Based Track Condition Monitoring
 Led the collaboration between SNCF and Université de Lille to design an AI-based track condition monitoring system. Integrated physical knowledge into the model to reduce false alarms, covering data analysis, model training, evaluation, and deployment on a local server.
 
