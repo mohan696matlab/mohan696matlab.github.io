@@ -22,7 +22,9 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 
 **Doctoral Researcher @ CRISTAL, Université de Lille (_Oct 2021 - Mar 2024_)**
 - Led the collaboration between SNCF and Université de Lille to design an AI-based track condition monitoring system. Integrated physical knowledge into the model to reduce false alarms, covering data analysis, model training, evaluation, and deployment on a local server.
+
 - Created a novel eXplainable Artificial Intelligence (XAI) method, enhancing trust in predictions for critical industrial settings, presented at an international conference.
+
 - Applied self-supervised learning to develop a hybrid fault diagnosis method, incorporating physics-based models, reducing the need for labelled data by 70%.
 
 
