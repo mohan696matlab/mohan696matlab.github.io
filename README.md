@@ -1,6 +1,6 @@
-# PhD. Data Scientist | NLP and Computer Vision Engineer
+# PhD. Artificial Intelligence for Automation | Computer Vision Research Engineer
 
-- [YouTube Channel - Intelligent Machines](https://www.youtube.com/@Mohankumardash 'Link title')
+- [YouTube Channel - Intelligent Machines](https://www.youtube.com/@Mohankumardash)
 
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
@@ -9,18 +9,26 @@
 - M.Tech., Mechanical Systems Design | Indian Institute of Technology, Kharagpur (_May 2021_)
 
 ## Work Experience
+
+**R&D Engineer @ BUAWEI, Lille (_Mar 2024 - Current_)**
+- Developed a state-of-the-art vision anomaly detection model for real-time quality inspection in collaboration with a large automotive client, improving speed by 85% without compromising performance. Collaborated with DevOps for deployment and coordinated with the product team for post-production monitoring. Tech stack: PyTorch, CI/CD, Git, Docker, Linux.
+ 
+- Utilized diffusion models to generate a more diverse dataset, enhancing the representation of underrepresented classes and improving model accuracy by 10-20%. 
+Tech stack: Hugging Face, PyTorch, Linux, Transformers.
+
+- Worked on various generative AI projects involving text-to-image models, image editing using generative AI, inpainting, guidance, and stable diffusion techniques. Tech stack: Hugging Face, PyTorch, Linux, Transformers.
+
+- Led an object tracking project for an international aerospace company, delivering a real-time contamination estimation system that was 10x faster than manual methods. This method is now in production. Tech stack: OpenCV, Ultranalytics, PyTorch, CI/CD, Docker, Linux.- Developed a state-of-the-art vision anomaly detection model for real-time quality inspection in collaboration with a large automotive client, improving speed by 85% without compromising performance. Collaborated with DevOps for deployment and coordinated with the product team for post-production monitoring. Tech stack: PyTorch, CI/CD, Git, Docker, Linux.
+
+
 **Doctoral Researcher @ CRISTAL, Université de Lille (_Oct 2021 - Mar 2024_)**
-- Developed a deep learning method using TensorFlow and signal processing techniques to estimate the remaining useful life of critical industrial components, improving prediction lead time by 37%.
+- Led the collaboration between SNCF and Université de Lille to design an AI-based track condition monitoring system. Integrated physical knowledge into the model to reduce false alarms, covering data analysis, model training, evaluation, and deployment on a local server.
 - Created a novel eXplainable Artificial Intelligence (XAI) method, enhancing trust in predictions for critical industrial settings, presented at an international conference.
 - Applied self-supervised learning to develop a hybrid fault diagnosis method, incorporating physics-based models, reducing the need for labelled data by 70%.
-- Deployed machine learning projects using FAST API in Docker containers for scalable applications.
 
 
 
 ## Projects
-
-### SNCF - AI-Based Track Condition Monitoring
-Led the collaboration between SNCF and Université de Lille to design an AI-based track condition monitoring system. Integrated physical knowledge into the model to reduce false alarms, covering data analysis, model training, evaluation, and deployment on a local server.
 
 ### Image Captioning Model with Deployment
 Trained an image captioning model using **TensorFlow** with **ResNet-50** and **LSTM** on the Flickr 8k dataset, generating insightful captions for images. Developed a Flask app for local deployment, allowing users to upload images and receive generated captions.
@@ -31,11 +39,18 @@ Developed a real-time mask recognition system using **OpenCV** and a fine-tuned 
 ### YouTube Channel - Intelligent Machines
 Launched a YouTube channel dedicated to data-driven condition monitoring. Demonstrated the application of machine learning techniques such as **CNN**, **RNN**, and **GAN** for industrial fault detection and monitoring. The channel has garnered over 70,000 views and 900+ subscribers.
 
-## Talks & Presentations
-- eXplainable AI (XAI) for Industrial Fault Diagnosis - International Conference, 2023
-- Self-Supervised Learning for Hybrid Fault Diagnosis - Internal Seminar, Université de Lille, 2022
+
+[GitHub](https://github.com/mohan696matlab) || [YouTube - Intelligent Machines](https://www.youtube.com/@Mohankumardash) || [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
 
 ## Publications
-1. B. M. Dash, _Explainable AI for Solar Cell Fault Detection_, Proceedings of International Conference on AI, 2023.
-2. B. M. Dash, _Hybrid Fault Diagnosis Using Self-Supervised Learning_, Machine Learning Journal, 2022.
+
+- Dash, Balyogi Mohan; Prakash, Om; Samantaray, Arun Kumar. "Failure prognosis of the components with unlike degradation trends: A data-driven approach." *Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability*, 237(6): 1132-1149, 2023. SAGE Publications, Sage UK: London, England.
+- Dash, Balyogi Mohan; Bouamama, Belkacem Ould; Boukerdja, Mahdi; Pekpe, Komi Midzodzi. "A Comparison of Model-Based and Machine Learning Techniques for Fault Diagnosis." *2022 23rd International Middle East Power Systems Conference (MEPCON)*, 1-7, 2022. IEEE.
+- Dash, Balyogi Mohan; Bouamama, Belkacem Ould; Pekpe, Komi Midzodzi; Boukerdja, Mahdi. "FDI-X: An occlusion-based approach for improving the explainability of deep learning models in fault detection and isolation." *2023 International Conference on Control, Automation and Diagnosis (ICCAD)*, 01-06, 2023. IEEE.
+- Dash, Balyogi Mohan; Bouamama, Belkacem Ould; Pekpe, Komi Midzodzi; Boukerdja, Mahdi. "Prior knowledge-infused Self-Supervised Learning and explainable AI for Fault Detection and Isolation in PEM electrolyzers." *Neurocomputing*, 594: 127871, 2024. Elsevier.
+- Dash, Balyogi Mohan; Bouamama, Belkacem Ould; Boukerdja, Mahdi; Pekpe, Komi Midzodzi. "Bond Graph-CNN based hybrid fault diagnosis with minimum labeled data." *Engineering Applications of Artificial Intelligence*, 131: 107734, 2024. Pergamon.
+- Boukerdja, Mahdi; Ould-Bouamama, Belkacem; Dash, Balyogi Mohan. "A Bond Graph Approach to Detect and Isolate Fault on Hybrid Multi-Source System." *2023 IEEE 11th International Conference on Systems and Control (ICSC)*, 969-974, 2023. IEEE.
+
+
+   
 
