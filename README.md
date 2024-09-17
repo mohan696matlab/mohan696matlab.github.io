@@ -18,8 +18,7 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 
 - Worked on various generative AI projects involving text-to-image models, image editing using generative AI, inpainting, guidance, and stable diffusion techniques. Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 
-- Led an object tracking project for an international aerospace company, delivering a real-time contamination estimation system that was 10x faster than manual methods. This method is now in production. Tech stack: OpenCV, Ultranalytics, PyTorch, CI/CD, Docker, Linux.- Developed a state-of-the-art vision anomaly detection model for real-time quality inspection in collaboration with a large automotive client, improving speed by 85% without compromising performance. Collaborated with DevOps for deployment and coordinated with the product team for post-production monitoring. Tech stack: PyTorch, CI/CD, Git, Docker, Linux.
-
+- Led an object tracking project for an international aerospace company, delivering a real-time contamination estimation system that was 10x faster than manual methods. This method is now in production. Tech stack: OpenCV, Ultranalytics, PyTorch, CI/CD, Docker, Linux.
 
 **Doctoral Researcher @ CRISTAL, Université de Lille (_Oct 2021 - Mar 2024_)**
 - Led the collaboration between SNCF and Université de Lille to design an AI-based track condition monitoring system. Integrated physical knowledge into the model to reduce false alarms, covering data analysis, model training, evaluation, and deployment on a local server.
