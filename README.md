@@ -27,14 +27,14 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 
 ## Projects
 
+### YouTube Channel - Intelligent Machines
+Launched a YouTube channel dedicated to data-driven condition monitoring. Demonstrated the application of machine learning techniques such as **CNN**, **RNN** for industrial fault detection and monitoring. 
+
 ### Image Captioning Model with Deployment
 Trained an image captioning model using **TensorFlow** with **ResNet-50** and **LSTM** on the Flickr 8k dataset, generating insightful captions for images. Developed a Flask app for local deployment, allowing users to upload images and receive generated captions.
 
 ### Facial Mask Recognition App with OpenCV
 Developed a real-time mask recognition system using **OpenCV** and a fine-tuned **VGG-16** network, trained on a Kaggle dataset of 1376 images. Implemented real-time face detection and classification in videos, predicting mask compliance.
-
-### YouTube Channel - Intelligent Machines
-Launched a YouTube channel dedicated to data-driven condition monitoring. Demonstrated the application of machine learning techniques such as **CNN**, **RNN**, and **GAN** for industrial fault detection and monitoring. The channel has garnered over 70,000 views and 900+ subscribers.
 
 
 ## Education
