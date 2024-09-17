@@ -1,6 +1,6 @@
 # PhD. Data Scientist | NLP and Computer Vision Engineer
 
-- [YouTube Channel - Intelligent Machines](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [YouTube Channel - Intelligent Machines]([https://www.youtube.com/@Mohankumardash])
 
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
