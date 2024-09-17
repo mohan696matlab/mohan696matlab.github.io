@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/balyogi-mohan-dash/" target="_blank">
-  <img src="https://linkdeincom/in/test" alt="LinkedIn" width="50" height="50">
+  <img src="https://linkedin.com/in/test" alt="LinkedIn" width="50" height="50">
 </a>
 
 <a href="https://github.com/mohan696matlab" target="_blank">
