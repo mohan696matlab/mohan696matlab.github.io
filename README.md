@@ -1,6 +1,6 @@
 # PhD. Artificial Intelligence for Automation | Computer Vision Research Engineer
 
-[Linkedin](https://www.linkedin.com/in/balyogi-mohan-dash/) || [GitHub](https://github.com/mohan696matlab) || [YouTube](https://www.youtube.com/@Mohankumardash) || [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
+[Linkedin](https://www.linkedin.com/in/balyogi-mohan-dash/) || [GitHub](https://github.com/mohan696matlab) || [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@Mohankumardash) || [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
 
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
