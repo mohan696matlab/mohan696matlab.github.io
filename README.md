@@ -2,19 +2,19 @@
 
 
 <a href="https://www.linkedin.com/in/balyogi-mohan-dash/" target="_blank">
-  <img src="https://linkedin.com/in/test" alt="LinkedIn" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
 </a>
 
 <a href="https://github.com/mohan696matlab" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="30">
 </a>
 
 <a href="https://www.youtube.com/@Mohankumardash" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="30">
 </a>
 
 <a href="https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="60" height="30">
 </a>
 
 
