@@ -1,7 +1,8 @@
 # PhD. Artificial Intelligence for Automation | Computer Vision Research Engineer
+<br>
+<br>
 
-
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/balyogi-mohan-dash/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
   </a>
@@ -19,10 +20,13 @@
   </a>
 </div>
 
-
+<br>
+<br>
 
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
+<br>
+<br>
 
 ## Work Experience
 
@@ -43,6 +47,8 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 
 - Applied self-supervised learning to develop a hybrid fault diagnosis method, incorporating physics-based models, reducing the need for labelled data by 70%.
 
+<br>
+<br>
 
 ## Projects
 
@@ -55,11 +61,15 @@ Trained an image captioning model using **TensorFlow** with **ResNet-50** and **
 ### Facial Mask Recognition App with OpenCV
 Developed a real-time mask recognition system using **OpenCV** and a fine-tuned **VGG-16** network, trained on a Kaggle dataset of 1376 images. Implemented real-time face detection and classification in videos, predicting mask compliance.
 
+<br>
+<br>
 
 ## Education
 - Ph.D., Artificial Intelligence for Automation | Université de Lille, France (_March 2024_)  
 - M.Tech., Mechanical Systems Design | Indian Institute of Technology, Kharagpur (_May 2021_)
 
+<br>
+<br>
 
 ## Publications
 
