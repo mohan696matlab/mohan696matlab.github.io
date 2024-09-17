@@ -1,12 +1,9 @@
 # PhD. Artificial Intelligence for Automation | Computer Vision Research Engineer
 
-- [YouTube Channel - Intelligent Machines](https://www.youtube.com/@Mohankumardash)
+[Linkedin](https://www.linkedin.com/in/balyogi-mohan-dash/) || [GitHub](https://github.com/mohan696matlab) || [YouTube](https://www.youtube.com/@Mohankumardash) || [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
 
 #### Technical Skills: Python, Deep Learning, Machine Learning, Computer Vision, NLP, Generative Models, Anomaly Detection, XAI, Self-Supervised Learning, MLOps, Docker, SQL, Rest API
 
-## Education
-- Ph.D., Artificial Intelligence for Automation | Université de Lille, France (_March 2024_)  
-- M.Tech., Mechanical Systems Design | Indian Institute of Technology, Kharagpur (_May 2021_)
 
 ## Work Experience
 
@@ -28,7 +25,6 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 - Applied self-supervised learning to develop a hybrid fault diagnosis method, incorporating physics-based models, reducing the need for labelled data by 70%.
 
 
-
 ## Projects
 
 ### Image Captioning Model with Deployment
@@ -41,7 +37,10 @@ Developed a real-time mask recognition system using **OpenCV** and a fine-tuned 
 Launched a YouTube channel dedicated to data-driven condition monitoring. Demonstrated the application of machine learning techniques such as **CNN**, **RNN**, and **GAN** for industrial fault detection and monitoring. The channel has garnered over 70,000 views and 900+ subscribers.
 
 
-[GitHub](https://github.com/mohan696matlab) || [YouTube - Intelligent Machines](https://www.youtube.com/@Mohankumardash) || [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
+## Education
+- Ph.D., Artificial Intelligence for Automation | Université de Lille, France (_March 2024_)  
+- M.Tech., Mechanical Systems Design | Indian Institute of Technology, Kharagpur (_May 2021_)
+
 
 ## Publications
 
