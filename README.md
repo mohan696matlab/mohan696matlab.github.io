@@ -53,6 +53,9 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 ## Projects
 
 ### YouTube Channel - Intelligent Machines
+[![YouTube Video](https://img.youtube.com/vi/GlHfC_woI9Q/0.jpg)](https://www.youtube.com/watch?v=GlHfC_woI9Q)
+
+
 Launched a YouTube channel dedicated to data-driven condition monitoring. Demonstrated the application of machine learning techniques such as **CNN**, **RNN** for industrial fault detection and monitoring. 
 
 ### Image Captioning Model with Deployment
