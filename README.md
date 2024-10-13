@@ -31,14 +31,14 @@
 ## Work Experience
 
 **R&D Engineer @ BUAWEI, Lille (_Mar 2024 - Current_)**
-- Developed a state-of-the-art vision anomaly detection model for real-time quality inspection in collaboration with a large automotive client, improving speed by 85% without compromising performance. Collaborated with DevOps for deployment and coordinated with the product team for post-production monitoring. Tech stack: PyTorch, CI/CD, Git, Docker, Linux.
+- Developed a state-of-the-art vision anomaly detection model for real-time quality inspection in collaboration with a large automotive client, improving speed by 85% without compromising performance. Collaborated with DevOps for deployment and coordinated with the product team for post-production monitoring. Tech stack: **PyTorch, CI/CD, Git, Docker, Linux.**
  
 - Utilized diffusion models to generate a more diverse dataset, enhancing the representation of underrepresented classes and improving model accuracy by 10-20%. 
-Tech stack: Hugging Face, PyTorch, Linux, Transformers.
+Tech stack: **Hugging Face, PyTorch, Linux, Transformers.**
 
-- Worked on various generative AI projects involving text-to-image models, image editing using generative AI, inpainting, guidance, and stable diffusion techniques. Tech stack: Hugging Face, PyTorch, Linux, Transformers.
+- Worked on various generative AI projects involving text-to-image models, image editing using generative AI, inpainting, guidance, and stable diffusion techniques. Tech stack: **Hugging Face, PyTorch, Linux, Transformers.**
 
-- Led an object tracking project for an international aerospace company, delivering a real-time contamination estimation system that was 10x faster than manual methods. This method is now in production. Tech stack: OpenCV, Ultranalytics, PyTorch, CI/CD, Docker, Linux.
+- Led an object tracking project for an international aerospace company, delivering a real-time contamination estimation system that was 10x faster than manual methods. This method is now in production. **Tech stack: OpenCV, Ultranalytics, PyTorch, CI/CD, Docker, Linux.**
 
 **Doctoral Researcher @ CRISTAL, Université de Lille (_Oct 2021 - Mar 2024_)**
 - Led the collaboration between SNCF and Université de Lille to design an AI-based track condition monitoring system. Integrated physical knowledge into the model to reduce false alarms, covering data analysis, model training, evaluation, and deployment on a local server.
@@ -58,11 +58,13 @@ Tech stack: Hugging Face, PyTorch, Linux, Transformers.
 
 Launched a YouTube channel dedicated to data-driven condition monitoring. Demonstrated the application of machine learning techniques such as **CNN**, **RNN** for industrial fault detection and monitoring. 
 
-### Image Captioning Model with Deployment
-Trained an image captioning model using **TensorFlow** with **ResNet-50** and **LSTM** on the Flickr 8k dataset, generating insightful captions for images. Developed a Flask app for local deployment, allowing users to upload images and receive generated captions.
+### Audio Transcription App (LLM)
+Developed an audio transcription app using OpenAI's Whisper and Streamlit, featuring language translation and timestamped transcriptions.
+[![Build Your Own Audio Transcription App in Under 10 Minutes!](https://img.youtube.com/vi/MkuttKl5wBk/0.jpg)](https://youtu.be/MkuttKl5wBk)
 
-### Facial Mask Recognition App with OpenCV
-Developed a real-time mask recognition system using **OpenCV** and a fine-tuned **VGG-16** network, trained on a Kaggle dataset of 1376 images. Implemented real-time face detection and classification in videos, predicting mask compliance.
+### Paraphraser Web App
+Built a paraphrase web app using **Hugging Face** and **Streamlit**, enabling users to generate paraphrased text with an intuitive interface.
+[![Build Your Own Paraphrase App in 7 Minutes!](https://img.youtube.com/vi/56upVPEJbm0/0.jpg)](https://youtu.be/56upVPEJbm0)
 
 <br>
 <br>
